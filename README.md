@@ -10,9 +10,9 @@ My curiosity towards technology has led me to develop a passion for cybersecurit
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Phishing Email Analysis and prevention         | SOC Automation Lab|
+| Vulnerability Identification And Management | SOC Automation Lab|
+| Network security hardening and attack prevention           | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
