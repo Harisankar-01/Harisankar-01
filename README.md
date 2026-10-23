@@ -10,8 +10,8 @@ My curiosity towards technology has led me to develop a passion for cybersecurit
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Harisankar-01/SOC-Lab-Enterprise-Monitoring">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Phishing Email Analysis and prevention         | SOC Automation Lab|
-| Vulnerability Identification And Management | SOC Automation Lab|
+| Phishing Email Analysis and prevention         | <a href="https://github.com/Harisankar-01/Phishing-Email-Analysis-And-Threat-Assessment">Detection Lab</a>|
+| Vulnerability Identification And Management |<a href="https://github.com/Harisankar-01/Vulnerability-Identification-And-Management">Detection Lab</a>|
 | Network security hardening and attack prevention           | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
@@ -48,7 +48,7 @@ My curiosity towards technology has led me to develop a passion for cybersecurit
 
 ## Projects
 - Enterprise level SOC LAB Implementation <a href="https://github.com/Harisankar-01/SOC-Lab-Enterprise-Monitoring">VIEW</a>
-- Vulnerability Identification & Management
-- Phishing Email Analysis
-- CIS Benchmark Compliance Assesment
-- Network Security Hardening
+- Vulnerability Identification & Management <a href="https://github.com/Harisankar-01/Vulnerability-Identification-And-Management">VIEW</a>
+- Phishing Email Analysis and Threat Assessment <a href="https://github.com/Harisankar-01/Phishing-Email-Analysis-And-Threat-Assessment">VIEW</a>
+- CIS Benchmark Compliance Assessment windows server 2022 <a href="https://github.com/Harisankar-01/CIS-Benchmark-Compliance-Assessment-Windows-Server-2022">VIEW</a>
+- Network Security Hardening <a href="https://github.com/Harisankar-01/">VIEW</a>
