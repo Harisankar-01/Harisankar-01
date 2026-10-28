@@ -1,6 +1,6 @@
 # Hello, I'm Hari👋
 
-&nbsp;I'm a finance graduate with a passion for cybersecurity. Currently building my skills in security operations, vulnerability assessment and ethical hacking. I'm on a journey to become a SOC Analyst and create a safer digital world.
+I'm a finance graduate with a passion for cybersecurity. Currently building my skills in security operations, vulnerability assessment and ethical hacking. I'm on a journey to become a SOC Analyst and create a safer digital world.
 My curiosity towards technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 # SKILLS
@@ -58,5 +58,5 @@ My curiosity towards technology has led me to develop a passion for cybersecurit
 <a href="https://www.sololearn.com/en/profile/19435758"><img src="https://img.shields.io/badge/-SoloLearn-149EF2?&style=for-the-badge&logo=sololearn&logoColor=white" /> </a>
 &nbsp;&nbsp;
 <a href="https://tryhackme.com/p/harisankar001"><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a> &nbsp;&nbsp;
-<a href="https://harisankar-01-portfolio.vercel.app"><img src="https://img.shields.io/badge/-Website-4285F4?&style=for-the-badge&logo=googlechrome&logoColor=white" /></a> &nbsp;&nbsp;
+<a href="https://harisankar01-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Website-4285F4?&style=for-the-badge&logo=googlechrome&logoColor=white" /></a> &nbsp;&nbsp;
 </div>
