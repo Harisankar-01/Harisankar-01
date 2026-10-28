@@ -12,7 +12,7 @@ My curiosity towards technology has led me to develop a passion for cybersecurit
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Phishing Email Analysis and prevention         | <a href="https://github.com/Harisankar-01/Phishing-Email-Analysis-And-Threat-Assessment">Detection Lab</a>|
 | Vulnerability Identification And Management |<a href="https://github.com/Harisankar-01/Vulnerability-Identification-And-Management">Detection Lab</a>|
-| Network security hardening and attack prevention           | SOC Automation Lab|
+| Network segmentation,security hardening and attack prevention           | <a href="https://github.com/Harisankar-01/Network-Security-Hardening-Lab">SOC Automation Lab</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
@@ -22,6 +22,7 @@ My curiosity towards technology has led me to develop a passion for cybersecurit
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-OPNsense-EF3B2D?&style=for-the-badge&logo=opnsense&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=snort&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -51,4 +52,4 @@ My curiosity towards technology has led me to develop a passion for cybersecurit
 - Vulnerability Identification & Management <a href="https://github.com/Harisankar-01/Vulnerability-Identification-And-Management">VIEW</a>
 - Phishing Email Analysis and Threat Assessment <a href="https://github.com/Harisankar-01/Phishing-Email-Analysis-And-Threat-Assessment">VIEW</a>
 - CIS Benchmark Compliance Assessment windows server 2022 <a href="https://github.com/Harisankar-01/CIS-Benchmark-Compliance-Assessment-Windows-Server-2022">VIEW</a>
-- Network Security Hardening <a href="https://github.com/Harisankar-01/">VIEW</a>
+- Network Security Hardening <a href="https://github.com/Harisankar-01/Network-Security-Hardening-Lab">VIEW</a>
