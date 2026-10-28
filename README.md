@@ -1,7 +1,10 @@
 # Hello, I'm Hari👋
+<div>
 <a href="https://www.linkedin.com/in/hari-sankar-71b175408"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://harisankar-01-portfolio.vercel.app"><img src="https://img.shields.io/badge/-Website-4285F4?&style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</div>
 
-I'm a finance graduate with a passion for cybersecurity. Currently building my skills in security operations, vulnerability assessment and ethical hacking. I'm on a journey to become a SOC Analyst and create a safer digital world.
+  I'm a finance graduate with a passion for cybersecurity. Currently building my skills in security operations, vulnerability assessment and ethical hacking. I'm on a journey to become a SOC Analyst and create a safer digital world.
 My curiosity towards technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 # SKILLS
