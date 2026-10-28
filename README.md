@@ -55,8 +55,7 @@ My curiosity towards technology has led me to develop a passion for cybersecurit
 <hr>
 <div>
 <a href="https://www.linkedin.com/in/hari-sankar-71b175408"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;
- 
 <a href="https://www.sololearn.com/en/profile/19435758"><img src="https://img.shields.io/badge/-SoloLearn-149EF2?&style=for-the-badge&logo=sololearn&logoColor=white" /> </a>
 </div> &nbsp;&nbsp;
-
+<a href="https://tryhackme.com/p/harisankar001"><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a> &nbsp;
 <a href="https://harisankar-01-portfolio.vercel.app"><img src="https://img.shields.io/badge/-Website-4285F4?&style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
