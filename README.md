@@ -1,9 +1,5 @@
 # Hello, I'm Hari👋
-<div>
-<a href="https://www.linkedin.com/in/hari-sankar-71b175408"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;
-<a href="https://harisankar-01-portfolio.vercel.app"><img src="https://img.shields.io/badge/-Website-4285F4?&style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-</div>
-<hr>
+
 &nbsp;I'm a finance graduate with a passion for cybersecurity. Currently building my skills in security operations, vulnerability assessment and ethical hacking. I'm on a journey to become a SOC Analyst and create a safer digital world.
 My curiosity towards technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
@@ -56,3 +52,9 @@ My curiosity towards technology has led me to develop a passion for cybersecurit
 - Phishing Email Analysis and Threat Assessment <a href="https://github.com/Harisankar-01/Phishing-Email-Analysis-And-Threat-Assessment">VIEW</a>
 - CIS Benchmark Compliance Assessment windows server 2022 <a href="https://github.com/Harisankar-01/CIS-Benchmark-Compliance-Assessment-Windows-Server-2022">VIEW</a>
 - Network Security Hardening <a href="https://github.com/Harisankar-01/Network-Security-Hardening-Lab">VIEW</a>
+<hr>
+<div>
+<a href="https://www.linkedin.com/in/hari-sankar-71b175408"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;
+<a href="https://harisankar-01-portfolio.vercel.app"><img src="https://img.shields.io/badge/-Website-4285F4?&style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+ <img src="https://img.shields.io/badge/-SoloLearn-149EF2?&style=for-the-badge&logo=sololearn&logoColor=white" />
+</div>
