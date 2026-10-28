@@ -1,6 +1,7 @@
 # Hello, I'm Hari👋
 <div>
 <a href="https://www.linkedin.com/in/hari-sankar-71b175408"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;
+  <br>
 <a href="https://harisankar-01-portfolio.vercel.app"><img src="https://img.shields.io/badge/-Website-4285F4?&style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </div>
 
