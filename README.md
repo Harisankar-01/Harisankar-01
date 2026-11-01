@@ -35,21 +35,18 @@ My curiosity towards technology has led me to develop a passion for cybersecurit
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-4A90E2?&style=for-the-badge&logo=wazuh&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/-Wazuh-4A90E2?&style=for-the-badge&logo=wazuh&logoColor=white" /> 
 </div>
 
-## Programming
+### Programming
 <div>
- 
-<img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
-
+   <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+   <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=postgresql&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
 </div>
-## Certifications
 
+## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Hackviser%20Core-6C3483?&style=for-the-badge&logo=hackthebox&logoColor=white" />
