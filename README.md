@@ -8,7 +8,7 @@ My curiosity towards technology has led me to develop a passion for cybersecurit
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Harisankar-01/SOC-Lab-Enterprise-Monitoring">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Harisankar-01/Network-Security-Hardening-Lab">Detection Lab</a>|
 | Phishing Email Analysis and prevention         | <a href="https://github.com/Harisankar-01/Phishing-Email-Analysis-And-Threat-Assessment">Detection Lab</a>|
 | Vulnerability Identification And Management |<a href="https://github.com/Harisankar-01/Vulnerability-Identification-And-Management">Detection Lab</a>|
 | Network segmentation,security hardening and attack prevention           | <a href="https://github.com/Harisankar-01/Network-Security-Hardening-Lab">SOC Automation Lab</a>|
