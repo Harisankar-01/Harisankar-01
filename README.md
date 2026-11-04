@@ -38,7 +38,7 @@ My curiosity towards technology has led me to develop a passion for cybersecurit
     <img src="https://img.shields.io/badge/-Wazuh-4A90E2?&style=for-the-badge&logo=wazuh&logoColor=white" /> 
 </div>
 
-### Programming
+### Scripting & Database
 <div>
    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
